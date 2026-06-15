@@ -1,0 +1,6 @@
+{
+  "name": "BacheWatch",
+  "description": "Reporte ciudadano de baches y desperfectos viales con localización en tiempo real, mapa interactivo y carga de evidencias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

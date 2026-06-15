@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer shield in safety orange -->
+    <path
+        android:fillColor="#FF9F1C"
+        android:pathData="M54,14 L88,34 L88,74 L54,94 L20,74 L20,34 Z" />
+    
+    <!-- Inner high-contrast dark shield -->
+    <path
+        android:fillColor="#12141C"
+        android:pathData="M54,20 L82,37 L82,71 L54,88 L26,71 L26,37 Z" />
+    
+    <!-- Pothole fracture layout representing a cracked pit in the ground -->
+    <path
+        android:fillColor="#FF4F00"
+        android:pathData="M38,62 C41,56 47,56 50,60 C53,64 56,66 61,64 C66,62 70,66 68,72 C66,78 60,82 54,82 C46,82 36,78 38,62 Z" />
+    
+    <!-- Inner deep pit core -->
+    <path
+        android:fillColor="#0E0F16"
+        android:pathData="M43,65 C45,61 48,61 50,63 C52,65 54,67 57,66 C60,65 63,67 62,71 C61,75 57,78 53,78 C47,78 41,75 43,65 Z" />
+    
+    <!-- Attention warning exclamation sign hovering above the pothole -->
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M51,32 H57 V48 H51 Z" />
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M51,52 H57 V58 H51 Z" />
+</vector>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "136071737685",
+    "project_id": "bachewatch-3bd96",
+    "storage_bucket": "bachewatch-3bd96.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136071737685:android:1c5706d82e130fbed23fdc",
+        "android_client_info": {
+          "package_name": "com.aistudio.bachewatch.mpxvzn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALVlIFKz1kk10df-ONJGzg117Xbd9yRyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136071737685:android:d73a485544d0e256d23fdc",
+        "android_client_info": {
+          "package_name": "com.dvua.bachewatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALVlIFKz1kk10df-ONJGzg117Xbd9yRyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
